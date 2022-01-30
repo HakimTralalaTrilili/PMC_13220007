@@ -33,7 +33,7 @@ int main() {
 		printf("format file bukanlah PDF maupun JPG\n");
 	}
 
-    printf("head pdf file :%c\n", testPDF);
-    printf("head jpg file :%c\n", testJPG);
+    	printf("head pdf file :%c\n", testPDF);
+   	printf("head jpg file :%c\n", testJPG);
 	return(0);
 }
