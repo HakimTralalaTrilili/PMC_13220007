@@ -17,3 +17,23 @@
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 5280 -1 -1 -1 1780 0
 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 4710 9040 0
 
+
+list kota :
+depok
+bekasi
+bogor
+karawang
+sukabumi
+cianjur
+subang
+indramayu
+purwakarta
+sumedang
+bandung
+garut
+cirebon
+kuningan
+majalengka
+ciamis
+tasikmalaya
+pangandaran
